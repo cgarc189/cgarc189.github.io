@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Carolina's Portfolio</title>
+<link rel="stylesheet" href="portfolio.css">
+  
+</head>
+
+<body>
+  <header>
+    <div class="dot"></div>
+    <strong>Carolina’s Portfolio</strong>
+  </header>
+
+  <nav>
+    <a href="mainpage.html">HOME</a>
+    <a href="#">PORTFOLIO</a>
+    <a href="#">BEAUTY</a>
+    <a href="#">BLOG</a>
+    <a href="#">CONTACT</a>
+  </nav>
+
+  <section class="main-section">
+    <div class="big-image">
+     <img src="me.JPG" width="100%" height="460">
+    </div>
+
+    <div class="about">
+      <h2>ABOUT ME:</h2>
+      <p>
+      My name is Carolina, and this space represents the pieces of me that matter most.
+I’m a lover of art, beauty, and self-expression. I believe in showing up as your best self, following your passions, and learning from every chapter of life.
+Here, you’ll find my work, my creativity, and the things that make me feel alive. I’m growing, I’m evolving, and this portfolio is part of that journey.
+      </p>
+    </div>
+  </section>
+
+  <div class="explore-bar">EXPLORE</div>
+
+ 
+      
+  <section class="three-columns">
+
+  <div class="column-box">
+    <center><h3>Portfolio</h3></center>
+    <img src="portfolio.png" width="100%" height="300">
+    <center><p><u>A curated look into my creative work
+        <br> and the projects that shaped my vision.</u></p></center>
+  </div>
+
+  <div class="column-box">
+    <center><h3>Beauty</h3></center>
+    <img src="beauty.png" width="100%" height="300">
+    <center><p><u>Where beauty, confidence, and a 
+    <br>touch of magic come to life.</u></p></center>
+  </div>
+
+  <div class="column-box">
+    <center><h3>Blog</h3></center>
+    <img src="Blog.png" width="100%" height="300">
+    <center><p><u>My corner of the internet—stories, thoughts,
+    <br>and inspiration worth sharing.</u></p></center>
+  </div>
+
+</section>
+
+
+  <footer>
+    ©2025 CAROLINA’S PORTFOLIO<br>carolinagar189@gmail.com
+  </footer>
+</body>
+</html>
